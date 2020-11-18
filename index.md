@@ -134,7 +134,7 @@
     <tr>
         <td>
             <figure class="faces">
-                <img src="/jpg/Jared Dunn.jpg" alt="Jared Dunn"  style="border-radius: 50%";>
+                <img src="/jpg/jared dunn.jpg" alt="jared dunn"  style="border-radius: 50%";>
             </figure>
         </td>
         <td>
